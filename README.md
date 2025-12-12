@@ -1,1 +1,1 @@
-# Pejsyfikator
+# Ai Trading Bot
